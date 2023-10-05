@@ -1,0 +1,18 @@
+collections
+torch
+datetime
+os
+random
+IPython
+glob
+io
+base64
+pyvirtualdisplay
+matplotlib
+cv2
+numpy
+torchvision
+pickle
+gym-super-mario-bros==7.3.0 > /dev/null 2>&1
+gym pyvirtualdisplay > /dev/null 2>&1
+!apt-get install -y xvfb python-opengl ffmpeg > /dev/null 2>&1
