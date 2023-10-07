@@ -101,5 +101,5 @@ def learn():
     plot()  # Create moving average plot
 
 
-if __name__ == "__learn__":
+if __name__ == "__main__":
     learn()
